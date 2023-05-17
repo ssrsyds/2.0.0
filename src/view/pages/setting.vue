@@ -21,8 +21,8 @@
               <h3>愿半生编码，如一生老友</h3>
             </div>
             <div>
-              <img src="http://aai.yjie.fun/ds//img/alipay.png" width="300px" height="300px"/>
-              <img src="http://aai.yjie.fun/ds//img/wxpay.png" width="300px" height="300px"/>
+              <img src="http://aai.yjie.fun/ds/img/alipay.png" width="300px" height="300px"/>
+              <img src="http://aai.yjie.fun/ds/img/wxpay.png" width="300px" height="300px"/>
             </div>
           </div>
         </transition>
