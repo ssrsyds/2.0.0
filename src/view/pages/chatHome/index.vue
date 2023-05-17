@@ -2,7 +2,7 @@
   <div class="chatHome">
     <div class="chatLeft" style="width:20%" v-show="showPersonList">
       <div class="title" style="text-align: center;">
-        <h2>OpenAI Manager</h2>
+        <h2>AI百晓生-附属版</h2>
       </div>
       <div class="online-person" style="margin-top: 5%;">
         <el-row :gutter="24">
